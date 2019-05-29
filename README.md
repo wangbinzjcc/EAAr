@@ -26,7 +26,7 @@ devtools::install_github("wangbinzjcc/EAAr")
 
 ```r
 
-libaray(EAAr)
+library(EAAr)
 
 ?EAAr
 ```
