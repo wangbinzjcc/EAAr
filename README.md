@@ -24,6 +24,8 @@ devtools::install_github("wangbinzjcc/EAAr")
 
 ## Usage
 
+The main function of this package is under test and has not been uploaded, so it is temporarily unavailable.
+
 ```r
 
 library(EAAr)
