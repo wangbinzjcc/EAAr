@@ -24,7 +24,7 @@ devtools::install_github("wangbinzjcc/EAAr")
 
 ## Usage
 
-The main function of this package is under test and has not been uploaded, so it is temporarily unavailable.
+Hint: The main function of this package is under test and has not been uploaded, so it is temporarily unavailable. The author is trying to repair it, but the process still needs a few days. Thank you for your attention.
 
 ```r
 
